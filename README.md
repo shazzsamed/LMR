@@ -48,6 +48,8 @@ The system consists of the following core components:
 
 ## 📊 Model Performance
 
+![image](https://github.com/user-attachments/assets/dba4704b-246a-4c0e-9ea2-d9c3fddb529d)
+
 | Model | RMSE | Precision | Recall | F1 Score |
 |-------|------|-----------|--------|----------|
 | Baseline Model | 13.99 | 0.8237 | 0.8745 | 0.8345 |
